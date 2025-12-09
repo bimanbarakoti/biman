@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Biman Barakoti</h1>
+      <p>Hello Welcome to my web page</p>
     </>
   )
 }
